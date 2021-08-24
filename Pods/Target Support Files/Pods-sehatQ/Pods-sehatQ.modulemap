@@ -1,0 +1,6 @@
+framework module Pods_sehatQ {
+  umbrella header "Pods-sehatQ-umbrella.h"
+
+  export *
+  module * { export * }
+}
